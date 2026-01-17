@@ -1,20 +1,4 @@
- [
-  {
-    "title": "Stranger Things",
-    "poster": "https://www.filmofilia.com/wp-content/uploads/2024/11/Stranger-Things-Season-5-Poster-02-scaled.jpg",
-    "genre": "Sci-Fi",
-    "rating": 8.7,
-    "description": "Kids uncover supernatural mysteries in their town.",
-    "seasons": 4
-  },
-  {
-    "title": "Money Heist",
-    "poster": "https://image.tmdb.org/t/p/w500/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
-    "genre": "Crime",
-    "rating": 8.3,
-    "description": "A mastermind plans the biggest heist in history.",
-    "seasons": 5
-  },
+[
   {
     "title": "Dark",
     "poster": "https://image.tmdb.org/t/p/w500/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
@@ -22,5 +6,50 @@
     "rating": 8.8,
     "description": "A time travel mystery across generations.",
     "seasons": 3
+  },
+
+  {
+    "title": "Stranger Things",
+    "poster": "https://image.tmdb.org/t/p/w500/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+    "genre": "Sci-Fi",
+    "rating": 8.7,
+    "description": "Kids battle supernatural forces in a small town.",
+    "seasons": 4
+  },
+
+  {
+    "title": "Money Heist",
+    "poster": "https://image.tmdb.org/t/p/w500/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+    "genre": "Crime",
+    "rating": 8.3,
+    "description": "A group plans the biggest heist in history.",
+    "seasons": 5
+  },
+
+  {
+    "title": "Squid Game",
+    "poster": "https://image.tmdb.org/t/p/w500/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg",
+    "genre": "Drama",
+    "rating": 8.0,
+    "description": "Contestants risk their lives in deadly games.",
+    "seasons": 1
+  },
+
+  {
+    "title": "Loki",
+    "poster": "https://image.tmdb.org/t/p/w500/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
+    "genre": "Fantasy",
+    "rating": 8.2,
+    "description": "Time-bending adventures of the trickster god.",
+    "seasons": 2
+  },
+
+  {
+    "title": "Wednesday",
+    "poster": "https://image.tmdb.org/t/p/w500/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+    "genre": "Mystery",
+    "rating": 8.1,
+    "description": "A dark comedy detective story.",
+    "seasons": 1
   }
 ]
