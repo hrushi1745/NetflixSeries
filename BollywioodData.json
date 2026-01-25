@@ -1,0 +1,82 @@
+[
+  {
+    "title": "3 Idiots",
+    "poster": "https://m.media-amazon.com/images/I/61z25t0w4fL._AC_UF894,1000_QL80_.jpg",
+    "genre": "Drama",
+    "rating": 8.4,
+    "description": "Three friends challenge the education system and redefine success.",
+    "seasons": 1
+  },
+  {
+    "title": "Dangal",
+    "poster": "https://m.media-amazon.com/images/I/81oYb0d7aFL._AC_UF894,1000_QL80_.jpg",
+    "genre": "Sports",
+    "rating": 8.3,
+    "description": "A former wrestler trains his daughters to become world-class wrestlers.",
+    "seasons": 1
+  },
+  {
+    "title": "PK",
+    "poster": "https://m.media-amazon.com/images/I/81R4zYc1dPL._AC_UF894,1000_QL80_.jpg",
+    "genre": "Comedy",
+    "rating": 8.1,
+    "description": "An alien on Earth questions blind faith and religious beliefs.",
+    "seasons": 1
+  },
+  {
+    "title": "Bahubali",
+    "poster": "https://m.media-amazon.com/images/I/71xBLRBYOiL._AC_UF894,1000_QL80_.jpg",
+    "genre": "Action",
+    "rating": 8.0,
+    "description": "A man discovers his royal heritage and fights for his kingdom.",
+    "seasons": 1
+  },
+  {
+    "title": "Kabir Singh",
+    "poster": "https://m.media-amazon.com/images/I/71JtFOb5FVL._AC_UF894,1000_QL80_.jpg",
+    "genre": "Romance",
+    "rating": 7.9,
+    "description": "A brilliant surgeon struggles with anger and heartbreak.",
+    "seasons": 1
+  },
+  {
+    "title": "KGF",
+    "poster": "https://m.media-amazon.com/images/I/81AYL0z3zEL._AC_UF894,1000_QL80_.jpg",
+    "genre": "Action",
+    "rating": 8.2,
+    "description": "A gangster rises from poverty to power in the gold mines of Kolar.",
+    "seasons": 1
+  },
+  {
+    "title": "Shershaah",
+    "poster": "https://m.media-amazon.com/images/I/81+3G1K2jPL._AC_UF894,1000_QL80_.jpg",
+    "genre": "War",
+    "rating": 8.6,
+    "description": "The life of Captain Vikram Batra, a Kargil war hero.",
+    "seasons": 1
+  },
+  {
+    "title": "Andhadhun",
+    "poster": "https://m.media-amazon.com/images/I/71y2LzM7RDL._AC_UF894,1000_QL80_.jpg",
+    "genre": "Thriller",
+    "rating": 8.3,
+    "description": "A blind pianist becomes entangled in a murder mystery.",
+    "seasons": 1
+  },
+  {
+    "title": "Drishyam",
+    "poster": "https://m.media-amazon.com/images/I/81H2g2GZzJL._AC_UF894,1000_QL80_.jpg",
+    "genre": "Crime",
+    "rating": 8.2,
+    "description": "A father protects his family after an unexpected crime.",
+    "seasons": 1
+  },
+  {
+    "title": "RRR",
+    "poster": "https://m.media-amazon.com/images/I/81hHy5XrdKL._AC_UF894,1000_QL80_.jpg",
+    "genre": "Action",
+    "rating": 8.7,
+    "description": "Two revolutionaries fight against British rule in India.",
+    "seasons": 1
+  }
+]
