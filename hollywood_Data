@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Stranger Things",
+    "poster": "https://example.com/stranger_things.jpg",
+    "rating": 8.7
+  },
+  {
+    "name": "Dark",
+    "poster": "https://example.com/dark.jpg",
+    "rating": 8.8
+  },
+  {
+    "name": "Money Heist",
+    "poster": "https://example.com/money_heist.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "The Witcher",
+    "poster": "https://example.com/the_witcher.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Wednesday",
+    "poster": "https://example.com/wednesday.jpg",
+    "rating": 8.0
+  },
+  {
+    "name": "Lucifer",
+    "poster": "https://example.com/lucifer.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Narcos",
+    "poster": "https://example.com/narcos.jpg",
+    "rating": 8.8
+  },
+  {
+    "name": "The Umbrella Academy",
+    "poster": "https://example.com/umbrella_academy.jpg",
+    "rating": 8.0
+  },
+  {
+    "name": "Breaking Bad",
+    "poster": "https://example.com/breaking_bad.jpg",
+    "rating": 9.5
+  },
+  {
+    "name": "Better Call Saul",
+    "poster": "https://example.com/better_call_saul.jpg",
+    "rating": 8.9
+  },
+  {
+    "name": "Ozark",
+    "poster": "https://example.com/ozark.jpg",
+    "rating": 8.5
+  },
+  {
+    "name": "The Night Agent",
+    "poster": "https://example.com/night_agent.jpg",
+    "rating": 7.5
+  },
+  {
+    "name": "Peaky Blinders",
+    "poster": "https://example.com/peaky_blinders.jpg",
+    "rating": 8.8
+  },
+  {
+    "name": "Squid Game",
+    "poster": "https://example.com/squid_game.jpg",
+    "rating": 8.0
+  },
+  {
+    "name": "The Sandman",
+    "poster": "https://example.com/sandman.jpg",
+    "rating": 7.7
+  },
+  {
+    "name": "Vikings Valhalla",
+    "poster": "https://example.com/vikings_valhalla.jpg",
+    "rating": 7.4
+  },
+  {
+    "name": "1899",
+    "poster": "https://example.com/1899.jpg",
+    "rating": 7.3
+  },
+  {
+    "name": "You",
+    "poster": "https://example.com/you.jpg",
+    "rating": 7.7
+  },
+  {
+    "name": "The Rain",
+    "poster": "https://example.com/the_rain.jpg",
+    "rating": 6.3
+  },
+  {
+    "name": "Locke & Key",
+    "poster": "https://example.com/locke_key.jpg",
+    "rating": 7.4
+  }
+]
